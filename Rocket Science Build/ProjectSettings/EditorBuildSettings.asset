@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 440d9ffd273db194ebf7b69e65df793d
+  - enabled: 1
     path: Assets/Scenes/RocketScienceMechanicsDemo.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
