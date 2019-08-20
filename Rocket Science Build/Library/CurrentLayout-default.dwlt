@@ -14,10 +14,30 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 572
     y: 50.4
     width: 963.2
     height: 772.8
+=======
+<<<<<<< HEAD
+    x: 0
+<<<<<<< HEAD
+    y: 44
+    width: 1440
+    height: 856
+=======
+    x: 8
+    y: 51
+    width: 1904
+    height: 981
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    y: 43
+    width: 1920
+    height: 997
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
@@ -42,11 +62,38 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 0
     width: 964
     height: 773
   m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
+=======
+    y: 30
+<<<<<<< HEAD
+<<<<<<< HEAD
+    width: 1440
+    height: 806
+=======
+    width: 1920
+    height: 947
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 77
+<<<<<<< HEAD
+=======
+    width: 1904
+    height: 931
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 54
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -62,6 +109,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 0
     width: 964
@@ -69,6 +117,36 @@ MonoBehaviour:
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    x: 1029
+    y: 0
+    width: 411
+    height: 806
+=======
+    x: 1518
+    y: 0
+    width: 386
+    height: 931
+>>>>>>> parent of 2d2d63f... pause menu
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 14}
+=======
+    x: 1372
+    y: 0
+    width: 548
+    height: 947
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 15}
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_Panes:
+  - {fileID: 14}
+  m_Selected: 0
+  m_LastSelected: 0
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -85,11 +163,34 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 753
     width: 964
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
+=======
+    y: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+    width: 298
+    height: 488
+=======
+    width: 376
+    height: 563
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    width: 397
+    height: 573
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 15}
+  m_Selected: 0
+  m_LastSelected: 0
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -108,6 +209,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 30
     width: 964
     height: 723
@@ -115,6 +217,31 @@ MonoBehaviour:
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 324
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    y: 488
+    width: 1029
+    height: 318
+=======
+    y: 563
+    width: 1518
+    height: 368
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    y: 573
+    width: 1372
+    height: 374
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 13}
+  m_Panes:
+  - {fileID: 13}
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 1
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,12 +261,29 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 687
     height: 723
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 325
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    width: 1440
+    height: 856
+=======
+    width: 1904
+    height: 981
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    width: 1920
+    height: 997
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -159,12 +303,28 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 687
     height: 370
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
   controlID: 326
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    width: 1440
+=======
+    width: 1904
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    width: 1920
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -181,6 +341,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 0
     width: 201
     height: 370
@@ -191,6 +352,23 @@ MonoBehaviour:
   - {fileID: 13}
   m_Selected: 0
   m_LastSelected: 0
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    y: 836
+    width: 1440
+=======
+    y: 961
+    width: 1904
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    y: 977
+    width: 1920
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -208,6 +386,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 201
     y: 0
+<<<<<<< HEAD
     width: 486
     height: 370
   m_MinSize: {x: 202, y: 221}
@@ -219,6 +398,31 @@ MonoBehaviour:
   - {fileID: 15}
   m_Selected: 0
   m_LastSelected: 1
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    width: 1029
+    height: 806
+=======
+    width: 1372
+    height: 947
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 78
+<<<<<<< HEAD
+=======
+    width: 1518
+    height: 931
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 55
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -235,6 +439,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 370
     width: 687
     height: 353
@@ -247,6 +452,32 @@ MonoBehaviour:
   - {fileID: 18}
   m_Selected: 0
   m_LastSelected: 2
+=======
+    y: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+    width: 1029
+    height: 488
+=======
+    width: 1372
+    height: 573
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 79
+<<<<<<< HEAD
+=======
+    width: 1518
+    height: 563
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 56
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -262,6 +493,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 687
     y: 0
     width: 277
@@ -271,6 +503,38 @@ MonoBehaviour:
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    x: 298
+=======
+    x: 397
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+    y: 0
+    width: 975
+    height: 573
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 17}
+=======
+    x: 376
+    y: 0
+    width: 1142
+    height: 563
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 16}
+>>>>>>> parent of 2d2d63f... pause menu
+  m_Panes:
+  - {fileID: 16}
+  - {fileID: 17}
+<<<<<<< HEAD
+  - {fileID: 18}
+  - {fileID: 13}
+=======
+  - {fileID: 12}
+>>>>>>> parent of 2d2d63f... pause menu
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &12
@@ -281,15 +545,27 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 1
   m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+=======
+<<<<<<< HEAD
+=======
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
   m_Name: 
   m_EditorClassIdentifier: 
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
+<<<<<<< HEAD
     m_Text: Game
     m_Image: {fileID: 257045534191678443, guid: 0000000000000000d000000000000000,
+=======
+    m_Text: Animation
+    m_Image: {fileID: 1561878555887300916, guid: 0000000000000000d000000000000000,
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -362,6 +638,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
   m_EditorHideFlags: 1
   m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -369,8 +646,13 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
+<<<<<<< HEAD
     m_Text: Hierarchy
     m_Image: {fileID: -9000905672528348964, guid: 0000000000000000d000000000000000,
+=======
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -380,6 +662,7 @@ MonoBehaviour:
     width: 200
     height: 349
   m_ViewDataDictionary: {fileID: 0}
+<<<<<<< HEAD
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
@@ -410,6 +693,9 @@ MonoBehaviour:
     m_CurrentSortingName: TransformSorting
   m_WindowGUID: 0e8d9d971e923fa43b213fd47e14094b
 --- !u!114 &14
+=======
+--- !u!114 &13
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -424,16 +710,41 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
+<<<<<<< HEAD
     m_Text: Scene
     m_Image: {fileID: -131512000283675692, guid: 0000000000000000d000000000000000,
+=======
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 772.8
     y: 80.8
     width: 484
     height: 349
+=======
+<<<<<<< HEAD
+    x: 0
+<<<<<<< HEAD
+    y: 563
+    width: 1028
+    height: 297
+=======
+    x: 8
+    y: 644
+    width: 1517
+    height: 347
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    y: 646
+    width: 1371
+    height: 353
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 97007a43dd253f649b2b8b43d75b236e
@@ -580,15 +891,46 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Anime\Desktop\School\Pre-Junior Year\Summer\CS345\Rocket
     Science\rocket-science\Rocket Science Build
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_LastProjectPath: /Users/rowan/Desktop/portfolio/rocket-science/Rocket Science
+    Build
+=======
+  m_LastProjectPath: C:\Users\grlro\Desktop\DIGM\Shooting Gallery
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+  m_LastProjectPath: C:\Users\grlro\Desktop\rocket_science\Rocket Science Build
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 24360000
     m_LastClickedID: 13860
     m_ExpandedIDs: 00000000ca35000000ca9a3b
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    m_SelectedIDs: c6350000
+    m_LastClickedID: 13766
+    m_ExpandedIDs: 00000000c6350000
+=======
+    m_SelectedIDs: 20360000
+    m_LastClickedID: 13856
+    m_ExpandedIDs: 000000002036000000ca9a3b
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    m_SelectedIDs: 46390000
+    m_LastClickedID: 14662
+    m_ExpandedIDs: 000000001439000000ca9a3b
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -616,7 +958,19 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000ca35000000ca9a3b
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000c6350000
+=======
+    m_ExpandedIDs: 0000000020360000
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    m_ExpandedIDs: 0000000014390000
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -672,62 +1026,10 @@ MonoBehaviour:
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 115
+<<<<<<< HEAD
 --- !u!114 &17
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Console
-    m_Image: {fileID: -3303252850963283158, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 515.2
-    width: 1224
-    height: 268
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &18
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Animation
-    m_Image: {fileID: -8967370667835289719, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 515.2
-    width: 1224
-    height: 268
-  m_ViewDataDictionary: {fileID: 0}
-  m_LockTracker:
-    m_IsLocked: 0
-  m_LastSelectedObjectID: 13240
---- !u!114 &19
+=======
+--- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -743,15 +1045,484 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Inspector
-    m_Image: {fileID: 8356117983803934776, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+    x: 1029
+    y: 75
+    width: 410
+    height: 785
+=======
+    x: 1526
+    y: 81
+    width: 385
+    height: 910
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    x: 1372
+    y: 73
+    width: 547
+    height: 926
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_ViewDataDictionary: {fileID: 0}
+  m_OpenAddComponentMenu: 0
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+<<<<<<< HEAD
+    x: 0
+<<<<<<< HEAD
+    y: 75
+    width: 297
+    height: 467
+=======
+    x: 8
+    y: 81
+    width: 375
+    height: 542
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    y: 73
+    width: 396
+    height: 552
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_ViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+      m_SelectedIDs: c0f9ffff
+      m_LastClickedID: -1600
+      m_ExpandedIDs: 66fbffff
+=======
+      m_SelectedIDs: 70e9ffff
+      m_LastClickedID: -5776
+      m_ExpandedIDs: 70e9ffffdeedffffe8edffff82fbffff72470000
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+      m_SelectedIDs: 68630000
+      m_LastClickedID: 25448
+      m_ExpandedIDs: 36baffff60baffff86baffff8ebaffff04c0ffff2ec0ffff9ec1ffffa6c1fffff6caffff5ecdffff24d2ffff4ed2ffffa0f7ffffaaf7fffffe370000845f0000aa5f000082630000
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 4}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 0e8d9d971e923fa43b213fd47e14094b
+--- !u!114 &16
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+<<<<<<< HEAD
+    m_Text: Console
+    m_Image: {fileID: -3303252850963283158, guid: 0000000000000000d000000000000000,
+=======
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+<<<<<<< HEAD
+    x: 0
+    y: 515.2
+    width: 1224
+    height: 268
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &18
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    x: 298
+    y: 75
+    width: 729
+    height: 467
+=======
+    x: 384
+    y: 81
+    width: 1140
+    height: 542
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    x: 397
+    y: 73
+    width: 973
+    height: 552
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: 97007a43dd253f649b2b8b43d75b236e
+  m_Gizmos: 1
+  m_SceneIsLit: 1
+  m_SceneLighting: 1
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+<<<<<<< HEAD
+<<<<<<< HEAD
+    m_Target: {x: 0.30146605, y: 1.5293962, z: 0.26500934}
+    speed: 2
+    m_Value: {x: 0.30146605, y: 1.5293962, z: 0.26500934}
+=======
+    m_Target: {x: -2.1767192, y: -0.5723355, z: -1.4843749}
+    speed: 2
+    m_Value: {x: -2.1767192, y: -0.5723355, z: -1.4843749}
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    m_Target: {x: 355.2644, y: 306.57358, z: -194.18188}
+    speed: 2
+    m_Value: {x: 351.41248, y: 313.9906, z: -190.86241}
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_ExposureSliderValue: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+  m_Rotation:
+<<<<<<< HEAD
+<<<<<<< HEAD
+    m_Target: {x: -0.31865153, y: -0.40046722, z: 0.15087612, w: -0.8457724}
+=======
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+<<<<<<< HEAD
+    m_Target: 117.23317
+    speed: 2
+    m_Value: 119.19998
+=======
+    m_Target: {x: 0.14789702, y: -0.78216696, z: 0.20292324, w: 0.57027453}
+    speed: 2
+    m_Value: {x: 0.14789335, y: -0.7821476, z: 0.2029182, w: 0.5702604}
+  m_Size:
+    m_Target: 5.745235
+    speed: 2
+    m_Value: 5.745235
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    m_Target: 880.6858
+    speed: 2
+    m_Value: 922.1841
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_CameraSettings:
+    m_Speed: 1
+    m_SpeedNormalized: 0.5
+    m_SpeedMin: 0.01
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfView: 90
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_ShowGlobalGrid: 1
+<<<<<<< HEAD
+  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+=======
+  m_LastSceneViewRotation: {x: -0.1122461, y: -0.8872891, z: 0.33125556, w: -0.300658}
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &17
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+<<<<<<< HEAD
+    m_Text: Animation
+    m_Image: {fileID: -8967370667835289719, guid: 0000000000000000d000000000000000,
+=======
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+<<<<<<< HEAD
+    x: 0
+    y: 515.2
+    width: 1224
+    height: 268
+  m_ViewDataDictionary: {fileID: 0}
+  m_LockTracker:
+    m_IsLocked: 0
+  m_LastSelectedObjectID: 13240
+--- !u!114 &19
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    x: 298
+    y: 75
+    width: 729
+    height: 467
+=======
+    x: 384
+    y: 81
+    width: 1140
+    height: 542
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    x: 397
+    y: 73
+    width: 973
+    height: 552
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_ViewDataDictionary: {fileID: 0}
+  m_VSyncEnabled: 0
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+    m_HBaseRangeMin: -364.5
+    m_HBaseRangeMax: 364.5
+    m_VBaseRangeMin: -223
+    m_VBaseRangeMax: 223
+=======
+    m_HBaseRangeMin: -570
+    m_HBaseRangeMax: 570
+    m_VBaseRangeMin: -260.5
+    m_VBaseRangeMax: 260.5
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+    m_HBaseRangeMin: -486.5
+    m_HBaseRangeMax: 486.5
+    m_VBaseRangeMin: -265.5
+    m_VBaseRangeMax: 265.5
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 21
+<<<<<<< HEAD
+<<<<<<< HEAD
+      width: 729
+      height: 446
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 364.5, y: 223}
+=======
+      width: 1140
+      height: 521
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 570, y: 260.5}
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+      width: 973
+      height: 531
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 486.5, y: 265.5}
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+      x: -364.5
+      y: -223
+      width: 729
+      height: 446
+=======
+      x: -570
+      y: -260.5
+      width: 1140
+      height: 521
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+      x: -486.5
+      y: -265.5
+      width: 973
+      height: 531
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_LastWindowPixelSize: {x: 729, y: 467}
+=======
+  m_LastWindowPixelSize: {x: 1140, y: 542}
+>>>>>>> parent of 2d2d63f... pause menu
+=======
+  m_LastWindowPixelSize: {x: 973, y: 552}
+>>>>>>> parent of 3a1e94c... prefabbed Boxes and spike plates
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_XRRenderMode: 0
+--- !u!114 &18
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+<<<<<<< HEAD
+    m_Text: Inspector
+    m_Image: {fileID: 8356117983803934776, guid: 0000000000000000d000000000000000,
+=======
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+<<<<<<< HEAD
     x: 1259.2001
     y: 80.8
     width: 275
     height: 702
+=======
+    x: 8
+    y: 644
+    width: 1517
+    height: 347
+>>>>>>> dd6a1fe464fcc3268ceaaf967df2a56af6f21723
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
