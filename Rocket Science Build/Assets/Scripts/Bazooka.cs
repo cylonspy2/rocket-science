@@ -9,7 +9,6 @@ public class Bazooka : MonoBehaviour
     public float projectileLifeTime = 5f;
     public Transform muzzlePoint;
     public GameObject projectile;
-    
 
     private float timeToFire;
     // Start is called before the first frame update
@@ -25,9 +24,8 @@ public class Bazooka : MonoBehaviour
 
         if (Input.GetMouseButton(0) && (timeToFire <= 0f))
         {
-            Quaternion rocketRot = Quaternion.Euler(muzzlePoint.rotation.eulerAngles.x + 90, muzzlePoint.rotation.eulerAngles.y - 90, muzzlePoint.rotation.eulerAngles.z);
+            Quaternion rocketRot = Quaternion.Euler(muzzlePoint.rotation.eulerAngles.x + 90, muzzlePoint.rotation.eulerAngles.y, muzzlePoint.rotation.eulerAngles.z);
             GameObject currProjectile = (GameObject)Instantiate(projectile, muzzlePoint.position, muzzlePoint.rotation);
-            currProjectile.transform.Rotate(new Vector3(-90, 0, 0));
             currProjectile.GetComponent<Rigidbody>().AddForce(muzzlePoint.up * shootForce);
             Destroy(currProjectile, projectileLifeTime);
             timeToFire = fireTime;
