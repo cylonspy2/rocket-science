@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":0.30146604776382449,"y":1.5293961763381959,"z":0.265009343624115},"rotation":{"x":-0.3186515271663666,"y":-0.4004672169685364,"z":0.15087611973285676,"w":-0.845772385597229},"size":117.23316955566406,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":355.264404296875,"y":306.5735778808594,"z":-194.181884765625},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":880.685791015625,"orthographic":true}
+>>>>>>> parent of 8856a42... Fixed the rocket rotation issue
